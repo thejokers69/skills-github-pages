@@ -12,8 +12,8 @@ Hi! I’m [Your Name], and I’m a [Your Role or Title]. This is my personal web
 - 🌍 Based in [Your Location]
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1): Brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): Brief description of what this project does.
+- [**Travel Reservation API**](https://github.com/thejokers69/travel-reservation-api.git): A REST API for travel reservations built with Node.js, Express, and MongoDB.
+- [**Data Analyzer**](https://github.com/thejokers69/analyseur_donnees.git): A Django application for analyzing data files.
 
 ## Connect with Me
 - [GitHub Profile](https://github.com/thejokers§9)

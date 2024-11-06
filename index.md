@@ -16,5 +16,5 @@ Hi! I’m [Your Name], and I’m a [Your Role or Title]. This is my personal web
 - [Project 2](https://github.com/yourusername/project2): Brief description of what this project does.
 
 ## Connect with Me
-- [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [GitHub Profile](https://github.com/thejokers§9)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-lakssir-b6b4301a4/)
